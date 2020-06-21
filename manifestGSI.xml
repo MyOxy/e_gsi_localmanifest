@@ -3,7 +3,7 @@
   <remote name="phh" fetch="https://github.com/phhusson/" />
   <remote name="phief" fetch="https://github.com/phief/" />
   <remote name="AndyCGYan" fetch="https://github.com/AndyCGYan/" />
-  <remote name="MyOxy" fetch="https://github.com/MyOxy/" /
+  <remote name="MyOxy" fetch="https://github.com/MyOxy/" />
 
   
   <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="pie" />
