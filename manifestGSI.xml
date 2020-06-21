@@ -14,6 +14,6 @@
   <project path="treble_patches" name="treble_patches" remote="AndyCGYan" revision="lineage-16.0" />
   <project path="treble_build_los" name="treble_build_los" remote="MyOxy" revision="new-e-pie"/>
   <project path="treble_experimentations" name="treble_experimentations" remote="phh" revision="master"  />
-  <project path="temp" name="temp" remote="MyOxy" revision="master"/>
+  <project path="vendor/interfaces/vendor/samsung/hardware/camera/provider/" name="samsung_camera" remote="MyOxy" revision="master"/>
 </manifest>
 
